@@ -1,0 +1,5 @@
+runtime: python27
+api_verison:1
+threadsafe:true
+-url: /
+  scripts: test.app
